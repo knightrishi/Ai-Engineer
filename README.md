@@ -1,5 +1,5 @@
 ##  Objective
-This repository tracks my progress and code implementations.
+A personal repository documenting hands-on implementations of LLMs, Agents, and RAG systems.
 
 ##  Tech Stack & Tools
 *   **AI/LLM:** OpenAI/Anthropic APIs, Prompt Chaining
