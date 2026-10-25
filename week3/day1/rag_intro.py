@@ -19,6 +19,7 @@ knowledge_base={
     "net worth":"Newt worth of Pratyush is 20000"
 
 }
+
 #step 2-- retrival
 def retrive_info(question):
     questions=question.lower()
